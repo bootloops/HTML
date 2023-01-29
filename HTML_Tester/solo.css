@@ -1,0 +1,58 @@
+/* 	
+	Sololearning CSS for index.html 
+*/
+
+body {
+	margin: 0px 0px 0px 0px;
+	background-color: #afafaf;
+	color: black;
+	text-shadow: 2px 0px 10px white;
+
+}
+
+h1 {
+	font-size: 90px;
+	font-family: sans-serif;
+	text-align: center;
+	margin: auto;
+	
+}
+
+textarea {
+/*	display: block;*/
+	background-color: #fff;
+	color: #000;
+	width: 90%;
+	height: 200px;
+	resize: none;
+	margin: auto;
+	text-align: center;
+
+}
+
+.post_button {
+	display: block;
+	color: black;
+	background-color: azure;
+	border-radius: 20px;
+	width: 200px;
+	height: 40px;
+	padding: 10px;
+	margin: auto;
+	text-align: center;
+}
+
+#output {
+	width: 100%;
+/*	height: 200px;*/
+	background-color: black;
+	margin: auto;
+	color: white;
+	padding:20px;
+}
+
+.comment {
+	background-color: rgba(255,255,255, 0.3);
+	width: 100%;
+	padding-left: 20px;
+}
